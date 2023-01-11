@@ -1,1 +1,7 @@
+#.gitignore
+
+# Log files
 *.txt
+
+# Executable
+api-client-load-testing
